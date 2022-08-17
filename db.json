@@ -15,7 +15,7 @@
       "snowflake": false,
       "icePict": false,
       "ms": false,
-      "season": "",
+      "season": "SU, WI, AS",
       "manufacturersArticleID": "13000090000",
       "articleDescription": "EL 14X5X10 MH20 STB A",
       "eanuccArticleID": "4019238455588"
@@ -35,7 +35,7 @@
       "snowflake": false,
       "icePict": false,
       "ms": false,
-      "season": "",
+      "season": "SU, WI, AS, SN",
       "manufacturersArticleID": "13402550000",
       "articleDescription": "EL 16X5X10 1/2 MC20 STB A",
       "eanuccArticleID": "4019238206180"
@@ -55,7 +55,7 @@
       "snowflake": false,
       "icePict": false,
       "ms": false,
-      "season": "",
+      "season": "AS",
       "manufacturersArticleID": "13468000000",
       "articleDescription": "EL 400/75-305 MH20 Z L",
       "eanuccArticleID": "4019238142327"
@@ -82,7 +82,7 @@
       "snowflake": false,
       "icePict": false,
       "ms": false,
-      "season": "SU",
+      "season": "SN",
       "manufacturersArticleID": "03574850000",
       "articleDescription": "205/50R17 93Y XL FR PremiumContact 6",
       "eanuccArticleID": "4019238772340"
